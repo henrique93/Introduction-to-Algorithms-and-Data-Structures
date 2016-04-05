@@ -1,0 +1,32 @@
+5
+send @Tintin #MoonLanding L'instant est solennel... La porte extérieure tourne lentement sur ces gonds et...
+send @Tintin #MoonLanding Ooooh!... Quel spectacle hallucinant!
+send @Tintin #MoonLanding Je descends à présent les échelons qui courent le long de la fusée...
+send @Tintin #MoonLanding Ça y est!... J'ai fait quelques pas!...
+send @Tintin #MoonLanding Pour la première fois sans doute dans l'histoire de l'humanité, ON A MARCHÉ SUR LA LUNE!
+send @Armstrong #MoonLanding Okay. I'm going to step off the LM now.
+close @Tintin #MoonLanding
+send @Armstrong #MoonLanding That's one small step for man; one giant leap for mankind.
+send @Armstrong #MoonLanding Yes, the surface is fine and powdery. I can kick it up loosely with my toe.
+send @Armstrong #MoonLanding Ah... There seems to be no difficulty in moving around - as we suspected.
+close @Tintin #MoonLanding
+send @Wallace #Cheese Gromit, that's it! Cheese! We'll go somewhere where there's cheese!
+send @Wallace #Cheese Everybody knows the moon's made of cheese.
+list #Gorgonzola
+list #MoonLanding
+close @Armstrong #MoonLanding
+send @Philae2014 #CometLanding Thank you, @ESA_Rosetta! I did it! I became the first spacecraft to land on a comet & study it! But it's not over yet...
+send @ESA_Rosetta #CometLanding You've done a great job Philae, something no spacecraft has ever done before.
+send  @Philae2014 #CometLanding I'm feeling a bit tired, did you get all my data? I might take a nap...
+list #MoonLanding
+list #CometLanding
+send @Wallace #MoonLanding Everything seems to be under contro-o-ol!
+send @Wallace #MoonLanding Ooh... seconds to blast-off.
+send @Wallace #MoonLanding No crackers, Gromit! We've forgotten the crackers!
+send @Wallace #MoonLanding Hold on, Gromit! Hold on!
+send @Wallace #MoonLanding Adjust angle of thrust. Steady now. Easing up.
+send @Wallace #MoonLanding Ah! Plate. Knife. Cracker.
+send @Wallace #MoonLanding I don't know, lad. It's like no cheese I've ever tasted. Let's try another spot.
+list #Cheese
+list #MoonLanding
+quit

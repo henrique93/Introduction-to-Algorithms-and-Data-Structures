@@ -1,0 +1,11 @@
+10
+send @Wallace #Cheese I do like a bit of gorgonzola.
+send @Wallace #Invention It's time we tried my latest invention, the Mind Manipulation-omatic. It extracts unwanted thoughts and desires.
+send @Wallace #Invention I haven't tested it yet, but it should be perfectly safe. Just a bit of harmless brain alteration, that's all.
+list #Invention
+close @Wallace #Invention
+send @Wendolene #Cheese Oh no, not cheese. Sorry. Brings me out in a rash. Can't stand the stuff.
+send @Wallace #Cheese I'm just crackers about cheese!
+list #Invention
+list #Cheese
+quit
